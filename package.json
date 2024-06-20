@@ -69,7 +69,7 @@
 		"image-promise": "^7.0.1",
 		"indent-textarea": "^3.0.0",
 		"js-abbreviation-number": "^1.4.0",
-		"linkedom": "^0.15.3",
+		"linkedom": "^0.18.0",
 		"linkify-issues": "^3.0.0",
 		"linkify-urls": "^4.1.0",
 		"mem": "^9.0.2",
